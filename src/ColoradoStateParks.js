@@ -6,4 +6,5 @@ function ColoradoStateParks() {
 
   return <h1>Colorado State Parks!</h1>;
 }
+
 export default ColoradoStateParks;
